@@ -1,0 +1,16 @@
+{
+  "articles": [
+    {
+      "title": "Acme Corp pushes renewable energy",
+      "url": "https://example.com/story1",
+      "source": { "name": "GreenTech Today" },
+      "publishedAt": "2023-06-01T12:00:00Z"
+    },
+    {
+      "title": "Sustainability gains traction in 2023",
+      "url": "https://example.com/story2",
+      "source": { "name": "EcoNews" },
+      "publishedAt": "2023-06-02T15:30:00Z"
+    }
+  ]
+}
